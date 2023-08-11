@@ -1,0 +1,19 @@
+body{
+    max-width: 800px;
+    margin: auto;
+    color: brown;
+    padding: 0.5rem;
+}
+
+h1, h2, h3{
+    background-color: burlywood;
+    padding: 10px;
+}
+
+h1{margin: 0px;}
+
+.centralizar{ text-align: center ;
+
+}
+
+ul{line-height: 40px;}
